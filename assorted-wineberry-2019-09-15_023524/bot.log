@@ -1,0 +1,180 @@
+[2019-09-14T22:33:46.295Z] (debug): Disconnected!
+[2019-09-14T22:33:46.300Z] (error): Incorrect login details were provided.
+[2019-09-14T22:33:57.495Z] (debug): Disconnected!
+[2019-09-14T22:33:57.504Z] (error): Incorrect login details were provided.
+[2019-09-14T22:34:07.512Z] (debug): Disconnected!
+[2019-09-14T22:34:07.517Z] (error): Incorrect login details were provided.
+[2019-09-14T22:34:18.709Z] (debug): Disconnected!
+[2019-09-14T22:34:18.713Z] (error): Incorrect login details were provided.
+[2019-09-14T22:34:28.441Z] (debug): Disconnected!
+[2019-09-14T22:34:28.445Z] (error): Incorrect login details were provided.
+[2019-09-14T22:34:40.933Z] (debug): Disconnected!
+[2019-09-14T22:34:40.939Z] (error): Incorrect login details were provided.
+[2019-09-14T22:34:52.093Z] (debug): Disconnected!
+[2019-09-14T22:34:52.098Z] (error): Incorrect login details were provided.
+[2019-09-14T22:35:03.170Z] (debug): Disconnected!
+[2019-09-14T22:35:03.177Z] (error): Incorrect login details were provided.
+[2019-09-14T22:35:16.347Z] (debug): Disconnected!
+[2019-09-14T22:35:16.352Z] (error): Incorrect login details were provided.
+[2019-09-14T22:35:26.888Z] (debug): Disconnected!
+[2019-09-14T22:35:26.894Z] (error): Incorrect login details were provided.
+[2019-09-14T22:35:38.203Z] (debug): Disconnected!
+[2019-09-14T22:35:38.225Z] (error): Incorrect login details were provided.
+[2019-09-14T22:35:49.137Z] (debug): Disconnected!
+[2019-09-14T22:35:49.146Z] (error): Incorrect login details were provided.
+[2019-09-14T22:36:00.328Z] (debug): Disconnected!
+[2019-09-14T22:36:00.333Z] (error): Incorrect login details were provided.
+[2019-09-14T22:36:11.499Z] (debug): Disconnected!
+[2019-09-14T22:36:11.506Z] (error): Incorrect login details were provided.
+[2019-09-14T22:36:23.627Z] (debug): Disconnected!
+[2019-09-14T22:36:23.645Z] (error): Incorrect login details were provided.
+[2019-09-14T22:36:35.130Z] (debug): Disconnected!
+[2019-09-14T22:36:35.138Z] (error): Incorrect login details were provided.
+[2019-09-14T22:36:50.717Z] (debug): Disconnected!
+[2019-09-14T22:36:50.728Z] (error): Incorrect login details were provided.
+[2019-09-14T22:37:03.393Z] (debug): Disconnected!
+[2019-09-14T22:37:03.398Z] (error): Incorrect login details were provided.
+[2019-09-14T22:37:16.637Z] (debug): Disconnected!
+[2019-09-14T22:37:16.644Z] (error): Incorrect login details were provided.
+[2019-09-14T22:37:26.675Z] (debug): Disconnected!
+[2019-09-14T22:37:26.680Z] (error): Incorrect login details were provided.
+[2019-09-14T22:37:37.656Z] (debug): Disconnected!
+[2019-09-14T22:37:37.662Z] (error): Incorrect login details were provided.
+[2019-09-14T22:37:51.348Z] (debug): Disconnected!
+[2019-09-14T22:37:51.352Z] (error): Incorrect login details were provided.
+[2019-09-14T22:38:01.631Z] (debug): Disconnected!
+[2019-09-14T22:38:01.639Z] (error): Incorrect login details were provided.
+[2019-09-14T22:38:13.917Z] (debug): Disconnected!
+[2019-09-14T22:38:13.922Z] (error): Incorrect login details were provided.
+[2019-09-14T22:38:24.542Z] (debug): Disconnected!
+[2019-09-14T22:38:24.546Z] (error): Incorrect login details were provided.
+[2019-09-14T22:38:35.123Z] (debug): Disconnected!
+[2019-09-14T22:38:35.128Z] (error): Incorrect login details were provided.
+[2019-09-14T22:38:45.685Z] (debug): Disconnected!
+[2019-09-14T22:38:45.690Z] (error): Incorrect login details were provided.
+[2019-09-14T22:39:00.799Z] (debug): Disconnected!
+[2019-09-14T22:39:00.804Z] (error): Incorrect login details were provided.
+[2019-09-14T22:39:12.825Z] (debug): Disconnected!
+[2019-09-14T22:39:12.834Z] (error): Incorrect login details were provided.
+[2019-09-14T22:39:26.008Z] (debug): Disconnected!
+[2019-09-14T22:39:26.019Z] (error): Incorrect login details were provided.
+[2019-09-14T22:39:36.237Z] (debug): Disconnected!
+[2019-09-14T22:39:36.261Z] (error): Incorrect login details were provided.
+[2019-09-14T22:39:46.116Z] (debug): Disconnected!
+[2019-09-14T22:39:46.121Z] (error): Incorrect login details were provided.
+[2019-09-14T22:39:59.761Z] (debug): Rhythm Bot Online!
+[2019-09-14T22:39:59.767Z] (debug): Bot Ready
+[2019-09-14T22:39:59.773Z] (debug): Console Reader Disconnected
+[2019-09-14T22:41:44.990Z] (debug): Bot Command: !help
+[2019-09-14T22:41:57.426Z] (debug): Bot Command: !play memes
+[2019-09-14T22:42:06.602Z] (debug): Bot Command: !ping
+[2019-09-14T22:42:22.317Z] (debug): Bot Command: !join
+[2019-09-14T22:42:36.371Z] (debug): Bot Command: !play meme
+[2019-09-14T22:42:49.984Z] (debug): Bot Command: !add memes
+[2019-09-14T22:43:25.811Z] (debug): Bot Command: !add https://www.youtube.com/watch?v=fC3pEQB3_Tc
+[2019-09-14T22:44:11.647Z] (debug): Bot Command: !add YouTube https://www.youtube.com/watch?v=fC3pEQB3_Tc
+[2019-09-14T22:44:29.486Z] (debug): Bot Command: !add youtube https://www.youtube.com/watch?v=fC3pEQB3_Tc
+[2019-09-14T22:51:10.643Z] (debug): Bot Command: !play https://www.youtube.com/watch?v=yI5o3R_hwr8
+[2019-09-14T22:51:20.945Z] (debug): Bot Command: !add https://www.youtube.com/watch?v=yI5o3R_hwr8
+[2019-09-14T22:51:33.963Z] (debug): Bot Command: !add https://www.youtube.com/watch?v=yI5o3R_hwr8
+[2019-09-14T22:51:38.349Z] (debug): Bot Command: !add svchost.exe https://www.youtube.com/watch?v=yI5o3R_hwr8
+[2019-09-14T22:51:56.625Z] (debug): Bot Command: !add demo
+[2019-09-14T22:52:04.981Z] (debug): Bot Command: !help
+[2019-09-14T22:52:14.182Z] (debug): Bot Command: !youtube https://www.youtube.com/watch?v=yI5o3R_hwr8
+[2019-09-14T22:52:20.112Z] (debug): Bot Command: !play
+[2019-09-14T22:52:39.842Z] (debug): Bot Command: !pause
+[2019-09-14T22:53:02.817Z] (debug): Reconnecting...
+[2019-09-14T22:57:41.429Z] (debug): Bot Command: !play https://www.youtube.com/watch?v=yI5o3R_hwr8
+[2019-09-14T22:58:24.031Z] (debug): Bot Command: !join
+[2019-09-14T22:58:40.817Z] (debug): Bot Command: !join
+[2019-09-14T22:58:42.342Z] (debug): Bot Command: !join
+[2019-09-14T22:58:57.405Z] (debug): Bot Command: !stop
+[2019-09-14T22:58:57.413Z] (debug): Stream Ended: user
+[2019-09-14T22:59:02.793Z] (debug): Bot Command: !skip
+[2019-09-14T22:59:02.950Z] (debug): Bot Command: !join
+[2019-09-14T22:59:09.725Z] (debug): Bot Command: !help
+[2019-09-14T22:59:15.593Z] (debug): Bot Command: !join General
+[2019-09-14T22:59:17.692Z] (debug): Bot Command: !leave
+[2019-09-14T22:59:21.636Z] (debug): Bot Command: !join
+[2019-09-14T22:59:28.037Z] (debug): Bot Command: !youtube https://www.youtube.com/watch?v=yI5o3R_hwr8
+[2019-09-14T22:59:30.348Z] (debug): Bot Command: !play
+[2019-09-14T22:59:57.779Z] (debug): Bot Command: !help
+[2019-09-14T23:00:36.986Z] (debug): Bot Command: !skip
+[2019-09-14T23:00:36.988Z] (debug): Stream Ended: user
+[2019-09-14T23:00:37.760Z] (debug): Bot Command: !skip
+[2019-09-14T23:00:50.305Z] (debug): Bot Command: !play
+[2019-09-14T23:00:55.797Z] (debug): Bot Command: !youtube https://youtu.be/SnHMvh7gvvo
+[2019-09-14T23:01:02.972Z] (debug): Bot Command: !play
+[2019-09-14T23:01:04.001Z] (debug): Bot Command: !play
+[2019-09-14T23:01:04.003Z] (debug): Stream Ended: user
+[2019-09-14T23:02:10.578Z] (debug): Stream Ended: Stream is not generating quickly enough.
+[2019-09-14T23:05:40.692Z] (debug): Bot Command: !youtube https://youtu.be/MvafWxxTEKg
+[2019-09-14T23:05:42.270Z] (debug): Bot Command: !play
+[2019-09-14T23:06:09.176Z] (debug): Bot Command: !pause
+[2019-09-14T23:06:35.581Z] (debug): Bot Command: !stop
+[2019-09-14T23:06:35.586Z] (debug): Stream Ended: user
+[2019-09-14T23:07:30.352Z] (debug): Bot Command: !play https://youtu.be/4vN7EXFMW70
+[2019-09-14T23:07:37.798Z] (debug): Bot Command: !play
+[2019-09-14T23:07:45.091Z] (debug): Bot Command: !youtube https://youtu.be/4vN7EXFMW70
+[2019-09-14T23:07:48.213Z] (debug): Bot Command: !play
+[2019-09-14T23:07:52.924Z] (debug): Bot Command: !pause
+[2019-09-14T23:08:01.120Z] (debug): Bot Command: !youtube https://youtu.be/4vN7EXFMW70
+[2019-09-14T23:08:03.873Z] (debug): Bot Command: !play
+[2019-09-14T23:08:08.207Z] (debug): Bot Command: !stop
+[2019-09-14T23:08:08.208Z] (debug): Stream Ended: user
+[2019-09-14T23:09:37.491Z] (debug): Bot Command: !play
+[2019-09-14T23:09:40.322Z] (debug): Bot Command: !stop
+[2019-09-14T23:09:40.323Z] (debug): Stream Ended: user
+[2019-09-14T23:09:42.699Z] (debug): Bot Command: !skip
+[2019-09-14T23:09:46.366Z] (debug): Bot Command: !skip
+[2019-09-14T23:10:12.362Z] (debug): Bot Command: !play
+[2019-09-14T23:10:26.133Z] (debug): Bot Command: !stop
+[2019-09-14T23:10:26.137Z] (debug): Stream Ended: user
+[2019-09-14T23:10:31.878Z] (debug): Bot Command: !pause
+[2019-09-14T23:11:12.848Z] (debug): Bot Command: !youtube https://youtu.be/4vN7EXFMW70
+[2019-09-14T23:11:16.940Z] (debug): Bot Command: !play
+[2019-09-14T23:11:28.871Z] (debug): Bot Command: !leave
+[2019-09-14T23:11:28.872Z] (debug): Stream Ended: user
+[2019-09-14T23:11:34.311Z] (debug): Bot Command: !join
+[2019-09-14T23:11:41.186Z] (debug): Bot Command: !play
+[2019-09-14T23:13:18.074Z] (debug): Stream Ended: Stream is not generating quickly enough.
+[2019-09-14T23:14:09.859Z] (debug): Bot Command: !skip
+[2019-09-14T23:14:09.861Z] (debug): Stream Ended: user
+[2019-09-14T23:14:16.352Z] (debug): Bot Command: !play https://youtu.be/4vN7EXFMW70
+[2019-09-14T23:14:22.787Z] (debug): Bot Command: !youtube https://youtu.be/4vN7EXFMW70
+[2019-09-14T23:14:24.926Z] (debug): Bot Command: !play
+[2019-09-14T23:15:41.871Z] (debug): Bot Command: !youtube https://youtu.be/wvc4mPF1u1w
+[2019-09-14T23:16:03.021Z] (debug): Stream Ended: Stream is not generating quickly enough.
+[2019-09-14T23:16:21.996Z] (debug): Bot Command: !play https://youtu.be/4vN7EXFMW70
+[2019-09-14T23:16:31.237Z] (debug): Bot Command: !stop
+[2019-09-14T23:16:31.238Z] (debug): Stream Ended: user
+[2019-09-14T23:16:59.700Z] (debug): Bot Command: !youtube https://youtu.be/4vN7EXFMW70 !play
+[2019-09-14T23:17:04.400Z] (debug): Bot Command: !play
+[2019-09-14T23:17:11.070Z] (debug): Bot Command: !skip
+[2019-09-14T23:17:11.071Z] (debug): Stream Ended: user
+[2019-09-14T23:18:50.017Z] (debug): Stream Ended: Stream is not generating quickly enough.
+[2019-09-14T23:25:43.176Z] (debug): Reconnecting...
+[2019-09-14T23:25:48.791Z] (debug): Disconnected!
+[2019-09-15T02:27:14.244Z] (debug): Disconnected!
+[2019-09-15T02:27:14.250Z] (error): Incorrect login details were provided.
+[2019-09-15T02:27:35.066Z] (debug): Rhythm Bot Online!
+[2019-09-15T02:27:35.071Z] (debug): Bot Ready
+[2019-09-15T02:27:35.075Z] (debug): Console Reader Disconnected
+[2019-09-15T02:30:40.758Z] (debug): Bot Command: F!help
+[2019-09-15T02:30:48.492Z] (debug): Bot Command: F!help
+[2019-09-15T02:31:02.965Z] (debug): Bot Command: F!join
+[2019-09-15T02:31:58.409Z] (debug): Bot Command: F!youtube https://www.youtube.com/watch?v=pZzSq8WfsKo
+[2019-09-15T02:32:10.452Z] (debug): Bot Command: F!play
+[2019-09-15T02:34:09.623Z] (debug): Rhythm Bot Online!
+[2019-09-15T02:34:09.635Z] (debug): Bot Ready
+[2019-09-15T02:34:09.656Z] (debug): Console Reader Disconnected
+[2019-09-15T02:34:25.750Z] (debug): Disconnected!
+[2019-09-15T02:34:25.756Z] (error): Incorrect login details were provided.
+[2019-09-15T02:34:36.049Z] (debug): Disconnected!
+[2019-09-15T02:34:36.059Z] (error): Incorrect login details were provided.
+[2019-09-15T02:34:48.846Z] (debug): Disconnected!
+[2019-09-15T02:34:48.857Z] (error): Incorrect login details were provided.
+[2019-09-15T02:35:03.573Z] (debug): Disconnected!
+[2019-09-15T02:35:03.583Z] (error): Incorrect login details were provided.
+[2019-09-15T02:35:13.964Z] (debug): Disconnected!
+[2019-09-15T02:35:13.968Z] (error): Incorrect login details were provided.
