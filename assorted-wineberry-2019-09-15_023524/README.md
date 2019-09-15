@@ -1,4 +1,4 @@
-# Rhythm-Bot 2.0 Typescript Update
+# FMusic Share Code 1.0
 - All converted to typescript for ease of collaboration, make sure to globally install typescript as listed in the installation below
 
 Note: This is not the bot listed here [https://rythmbot.co/](https://rythmbot.co/)
@@ -18,7 +18,7 @@ Simple little music bot to queue up and play youtube audio over discord voice ch
 ## Installation
 
 - Install node latest stable release, this was built with node v6.11.0
-- For windows run `npm install --global --production windows-build-tools`
+- For windows run `npm install --global --production windows-build-tools`, 
     - Run `npm config set python python2.7`
     - Install FFMPEG from the website and add it to your system path. EX: `C:\ffmpeg\bin`
     - Run `npm install node-gyp -g`
